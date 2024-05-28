@@ -1,0 +1,119 @@
+*{
+    padding:0px;
+    margin:0px;
+    }
+body{
+     margin:0px;
+     padding:0px;
+     }
+
+.header{
+      width:100%;
+      height: 350px;
+      Background-image: url("C:\\Users\\Personal\\Downloads\\staticwebpage\\pets1.jpg");
+      color :   #0a0a0a;
+      }
+.header marquee{
+      font-style: oblique;
+      color: #FF3933 ;
+      font-size:50px;
+      }
+
+.header h1 {
+      text-align:  center;
+      font-style: oblique  ;
+      font-size:100px;
+      line-height:200px;
+              }
+.nav {
+      width:100%;
+      height:50px;
+      background-color: #39e4ed;
+      text-align:center;
+         }
+
+.nav ul{
+      list-style-type: none;
+      line-height:50px;
+      }
+.nav ul li{
+         display: inline;
+         }
+
+.nav ul li a {
+         color: Black;
+         background-color : pink;
+         font-size: 20px;
+         font-style: oblique;
+         padding:10px 20px;
+         text-decoration:none;
+
+         }
+.nav ul li a:visited{
+               color : black;
+               background-color:pink;
+
+                  }
+
+.nav ul li a:hover{
+           color: white;
+           background-color:green;
+           }
+
+.nav ul li a:active{
+             color: coral;
+              background-color: brown;
+              }
+.content1 {
+         background-color:aqua;
+         width:20%;
+         height:400px;
+         float: left;
+         }
+.content1 ul li a {
+         color: Black;
+         background-color : pink;
+         font-size: 40px;
+         font-style: oblique;
+         text-decoration:none;
+
+         }
+ .content1 ul li a:hover{
+           color: white;
+           background-color:green;
+           }
+.content2 {
+            Background-image: url("C:\\Users\\Personal\\Downloads\\staticwebpage\\paws3.jpg");
+            width: 80%;
+            height:400px;
+            float: right;
+            }
+.content2 p {
+          font-size: 35px;
+          font-family: 'Brush Script MT', cursive;
+          color: black;
+          padding :30px;
+
+         }
+
+.footer{
+     width:100%;
+     height:100px;
+     background-color:#00BFFF;
+     color: black;
+     }
+.footer p{
+  color:black;
+  font-size:20px;
+  font-style:oblique;
+  text-align: center;
+  line-height:20px
+     }
+.footer address{
+  color:black;
+  font-size:20px;
+  font-style:oblique;
+  text-align: center;
+  line-height:20px;
+   background-color:#00BFFF;
+     }
